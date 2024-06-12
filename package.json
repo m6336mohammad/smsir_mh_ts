@@ -4,7 +4,8 @@
   "description": "",
   "main": "smsir_mh_ts.ts",
   "scripts": {
-    "start": "node dist/testSMS.js"
+    "start": "node dist/testSMS.js",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
