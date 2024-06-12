@@ -1,0 +1,22 @@
+{
+  "name": "smsir_mh_ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "smsir_mh_ts.ts",
+  "scripts": {
+    "start": "node dist/testSMS.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m6336mohammad/smsir_mh_ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
