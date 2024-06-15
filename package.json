@@ -1,7 +1,7 @@
 {
   "name": "smsir_mh_ts",
   "version": "1.0.0",
-  "description": "This package is for using SMS service from sms.ir should get API and templetId from sms.ir ,tyesScript",
+  "description": "This package is for using SMS service from sms.ir should get API and templetId from sms.ir .TypeScript support",
   "main": "smsir_mh_ts.ts",
   "scripts": {
     "test": "jest",
