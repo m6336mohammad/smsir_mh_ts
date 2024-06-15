@@ -47,7 +47,7 @@ yarn add smsir_mh_ts
 # Example use:
 
 ```bash
-import { SendAlertSMSIR } from "./smsir_mh_ts";
+import { SendAlertSMSIR } from "smsir_mh_ts";
 
 
 const api_key: string = '121212121211121';   ///Example API Key
