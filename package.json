@@ -1,8 +1,9 @@
 {
   "name": "smsir_mh_ts",
   "version": "1.0.0",
-  "description": "This package is for using SMS service from sms.ir should get API and templetId from sms.ir .TypeScript support",
-  "main": "smsir_mh_ts.ts",
+  "description": "This package is for using SMS service from sms.ir should get API and templetId from sms.ir. TypeScript support",
+  "main": "dist/smsir_mh_ts.js",
+  "types": "dist/smsir_mh_ts.d.ts",
   "scripts": {
     "test": "jest",
     "start": "node dist/sampleUse.js",
@@ -12,8 +13,8 @@
     "type": "git",
     "url": "https://github.com/m6336mohammad/smsir_mh_ts.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["sms", "sms.ir", "typescript"],
+  "author": "Mohammad Hadi",
   "license": "ISC",
   "devDependencies": {
     "@types/axios": "^0.14.0",
