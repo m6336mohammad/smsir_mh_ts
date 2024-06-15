@@ -1,11 +1,11 @@
 {
   "name": "smsir_mh_ts",
   "version": "1.0.0",
-  "description": "",
+  "description": "This package is for using SMS service from sms.ir should get API and templetId from sms.ir ,tyesScript",
   "main": "smsir_mh_ts.ts",
   "scripts": {
     "test": "jest",
-    "start": "node dist/testSMS.js",
+    "start": "node dist/sampleUse.js",
     "build": "tsc"
   },
   "repository": {
