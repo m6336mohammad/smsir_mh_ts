@@ -15,7 +15,7 @@
   },
   "keywords": ["sms", "sms.ir", "typescript","Mohammad Hadi","mmm.6336@gmail.com"],
   "author": "Mohammad Hadi",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/axios": "^0.14.0",
     "@types/jest": "^29.5.12",
