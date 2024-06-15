@@ -6,6 +6,7 @@ This package is for using SMS service from sms.ir should get API and templetId f
 
 ```bash
 npm test
+
  PASS  src/SendAlertSMSIR.test.ts
   SendAlertSMSIR
     √ should send SMS successfully (10 ms)
