@@ -1,6 +1,6 @@
 {
   "name": "smsir_mh_ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package is for using SMS service from sms.ir should get API and templetId from sms.ir. TypeScript support",
   "main": "dist/smsir_mh_ts.js",
   "types": "dist/smsir_mh_ts.d.ts",
