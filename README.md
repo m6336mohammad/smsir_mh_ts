@@ -1,6 +1,6 @@
 # smsir_mh_ts
 
-This package is for using SMS service from sms.ir should get API and templetId from sms.ir ,tyesScript
+This package is for using SMS service from sms.ir should get API and templetId from sms.ir .TypeScript support
 
 ## Test Resalt
 
