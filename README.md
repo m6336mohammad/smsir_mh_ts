@@ -35,6 +35,7 @@ npm install typescript ts-node @types/node
 ```bash
 npx tsc --init
 ```
+
 ## Installation
 
 To install the package, run:
