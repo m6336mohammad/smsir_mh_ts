@@ -27,6 +27,14 @@ Email: mmm.6336@gmail.com
 
 Donate address : `TS3ZnWGHfDnW7FcG8p6BYrWAis2nzX3gDG` //USDT TRC20
 
+## Make TypeScript project:
+
+```bash
+npm install typescript ts-node @types/node
+```
+```bash
+npx tsc --init
+```
 ## Installation
 
 To install the package, run:
